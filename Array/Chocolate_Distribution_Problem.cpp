@@ -1,4 +1,4 @@
-// https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
+//  https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
 
  long long findMinDiff(vector<long long> a, long long n, long long m){
     //code

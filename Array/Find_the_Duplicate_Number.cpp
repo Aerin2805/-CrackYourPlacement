@@ -1,4 +1,4 @@
-// Leetcode Problem Number 287
+// Leetcode Problem Number  287
 
 class Solution {
 public:

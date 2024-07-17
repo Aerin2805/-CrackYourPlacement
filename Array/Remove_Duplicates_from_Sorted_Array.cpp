@@ -1,4 +1,4 @@
-// Leetcode Problem Number 26
+// Leetcode Problem Number  26
 
 class Solution {
 public:
